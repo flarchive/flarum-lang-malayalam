@@ -1,17 +1,26 @@
-# meetdilip/flarum-lang-malayalam (Archive)
+# flarum-lang-malayalam (Archive)
 
-> **Read-only archive of released versions of meetdilip/flarum-lang-malayalam.** Not for installation: use [Packagist](https://packagist.org/packages/meetdilip/flarum-lang-malayalam) or the [upstream repository](https://github.com/flarum-lang/malayalam).
+> **Read-only archive of released versions for flarum-lang/malayalam, meetdilip/flarum-lang-malayalam.** Not for installation: use Packagist or the [upstream repository](https://github.com/flarum-lang/malayalam).
 
-**2** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/meetdilip-flarum-lang-malayalam/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/flarum-lang-malayalam/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`flarum-lang/malayalam`](https://packagist.org/packages/flarum-lang/malayalam)
+- [`meetdilip/flarum-lang-malayalam`](https://packagist.org/packages/meetdilip/flarum-lang-malayalam)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0.0` | 2026-09-30 | `^1.0` | [Browse](https://github.com/flarchive/meetdilip-flarum-lang-malayalam/tree/archive/v1.0.0) |
-| `2.0.0` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/meetdilip-flarum-lang-malayalam/tree/archive/v2.0.0) |
+| `1.0.0` | 2026-09-30 | `^1.0` | [Browse](https://github.com/flarchive/flarum-lang-malayalam/tree/archive/v1.0.0) |
+| `2.0.0` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-malayalam/tree/archive/v2.0.0) |
 
-Catalog entry: [packages/meetdilip-flarum-lang-malayalam.json](https://github.com/flarchive/archive-index/blob/main/packages/meetdilip-flarum-lang-malayalam.json)
+## Catalog entries
+
+- [`flarum-lang/malayalam`](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-malayalam.json)
+- [`meetdilip/flarum-lang-malayalam`](https://github.com/flarchive/archive-index/blob/main/packages/meetdilip-flarum-lang-malayalam.json)
 
 ## About this archive
 
